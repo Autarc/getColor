@@ -1,0 +1,14 @@
+getColor
+========
+
+A short script, which allows to pick a color and get its "real" value,
+considering different layers with opacity.
+
+
+ToDo
+----
+
+- detection of an background image
+- getting the colour of the pixel in image
+
+4 - Fabian
